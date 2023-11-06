@@ -11,7 +11,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## Long-sequence
 * Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks)
-* YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071)
+* YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071), [YaRN on Mistral-7b-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 
 ## Dynamic Adaptive Prompt Engineering
 
