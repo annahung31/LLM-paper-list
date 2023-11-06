@@ -6,8 +6,12 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Llemma: An Open Language Model For Mathematics [paper](https://arxiv.org/abs/2310.10631), [code](https://github.com/EleutherAI/math-lm)
     * #mathematics #codellama
 
+## Effictive training
+* FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
+
 ## Long-sequence
-* Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks) 
+* Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks)
+* YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071)
 
 ## Dynamic Adaptive Prompt Engineering
 
@@ -34,10 +38,15 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * RedPajama: An Open Source Recipe to Reproduce LLaMA training dataset [code](https://github.com/togethercomputer/RedPajama-Data)
 
 
+## Domain adaptation
+* LLMs for Chip Design [paper](https://arxiv.org/abs/2311.00176) (from NVIDIA)
+
+
 ## Review paper
 * Large Language Models for Software Engineering: Survey and Open Problems [paper](https://arxiv.org/abs/2310.03533)
     * LLM for code generation
     * LLM for software testing, debugging, repair
     * LLM for documentation generation
 * Software testing with large language model: Survey, landscape, and vision [paper](https://arxiv.org/abs/2307.07221)
-* 
+* Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across **Computer Vision** Tasks [paper](https://arxiv.org/pdf/2310.19909.pdf) (NeurIPS'23)
+  
