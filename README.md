@@ -6,8 +6,19 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Llemma: An Open Language Model For Mathematics [paper](https://arxiv.org/abs/2310.10631), [code](https://github.com/EleutherAI/math-lm)
     * #mathematics #codellama
 
+## Transformer design
+* Simplifying Transformer Blocks [paper](https://arxiv.org/abs/2311.01906)
+* Alternating Updates for Efficient Transformers (Google Research) (NeutIPS'23) [paper](https://arxiv.org/pdf/2301.13310.pdf)
+
+## bi-modal LLM
+* CogVLM: Visual Expert for Pretrained Language Models [paper](https://arxiv.org/abs/2311.03079), [code](https://github.com/THUDM/CogVLM)
+
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
+
+## In-context learning
+* Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (from DeepMind) [paper](https://arxiv.org/abs/2311.00871)
+
 
 ## Long-sequence
 * Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks)
@@ -49,4 +60,4 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
     * LLM for documentation generation
 * Software testing with large language model: Survey, landscape, and vision [paper](https://arxiv.org/abs/2307.07221)
 * Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across **Computer Vision** Tasks [paper](https://arxiv.org/pdf/2310.19909.pdf) (NeurIPS'23)
-  
+* The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [paper](https://arxiv.org/abs/2311.07361)
