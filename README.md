@@ -16,6 +16,10 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
 
+## Efficient inference
+* s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
+* 
+
 ## In-context learning
 * Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (from DeepMind) [paper](https://arxiv.org/abs/2311.00871)
 
@@ -23,6 +27,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Long-sequence
 * Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks)
 * YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071), [YaRN on Mistral-7b-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
+* RoPE scaling [post](https://www.reddit.com/r/LocalLLaMA/comments/14mrgpr/dynamically_scaled_rope_further_increases/), [Hugging Face implementation](https://huggingface.co/docs/transformers/main/en/model_doc/llama#transformers.LlamaConfig.rope_scaling)
 
 ## Dynamic Adaptive Prompt Engineering
 
