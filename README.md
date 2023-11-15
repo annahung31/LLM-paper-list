@@ -17,6 +17,9 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
 * Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer [paper](https://arxiv.org/abs/2203.03466), [code](https://github.com/microsoft/mup) 
 
+## Parameter-Efficient fine-tuning
+* LoRA: Low-Rank Adaptation of Large Language Models [paper]((https://arxiv.org/pdf/2106.09685.pdf)
+
 ## Efficient inference
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * 
