@@ -70,3 +70,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Software testing with large language model: Survey, landscape, and vision [paper](https://arxiv.org/abs/2307.07221)
 * Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across **Computer Vision** Tasks [paper](https://arxiv.org/pdf/2310.19909.pdf) (NeurIPS'23)
 * The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [paper](https://arxiv.org/abs/2311.07361)
+
+
+## Not paper, but good discussion
+* [Your settings are (probably) hurting your model - Why sampler settings matter](https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/)
