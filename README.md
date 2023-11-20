@@ -1,5 +1,5 @@
 # LLM-paper-list
-There are many papers related to LLM emerge every week. So I created this paper list to collect papers that I'm interested in.
+There are many papers and blogs related to LLM emerge every week. So I created this list to collect papers that I'm interested in.
 This list was created on Oct. 23, 2023, so some important papers before this date might be missed.
 
 ## Models
@@ -16,6 +16,9 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
 * Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer [paper](https://arxiv.org/abs/2203.03466), [code](https://github.com/microsoft/mup) 
+
+## Hyperparameter tuning
+* Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments  (from lightning AI) [blog](https://lightning.ai/pages/community/lora-insights/)
 
 ## Parameter-Efficient fine-tuning
 * LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685.pdf)
