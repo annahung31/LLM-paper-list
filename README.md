@@ -26,6 +26,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## Efficient inference
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
+* MoLORA (Mixture of LORA) (from cohere) [paper](https://arxiv.org/abs/2309.05444) 
 * blogs:
    * [LLM系列笔记：LLM Inference量化分析与加速](https://zhuanlan.zhihu.com/p/642272677)
 
