@@ -12,6 +12,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## bi-modal LLM
 * CogVLM: Visual Expert for Pretrained Language Models [paper](https://arxiv.org/abs/2311.03079), [code](https://github.com/THUDM/CogVLM)
+* Emu Edit: Precise Image Editing via Recognition and Generation Tasks (from Meta) (use text instructions to modify images) [paper](https://emu-edit.metademolab.com/assets/emu_edit.pdf), [blog](https://emu-edit.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_campaign=emu&utm_content=thread)
 
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
@@ -46,6 +47,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Understanding Retrieval Augmentation for Long-Form Question Answering [paper](https://arxiv.org/abs/2310.12150)
     * evidence documents should be carefully added to the LLM
     *  the order of information presented in evidence documents will impact the order of information presented in the generated answer
+* Learning to Filter Context for Retrieval-Augmented Generation [paper](https://arxiv.org/abs/2311.07989), [code](https://github.com/zorazrw/filco)
+* Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [paper](https://arxiv.org/abs/2311.09210)
 
 ## Cost saving
 * AutoMix: Automatically Mixing Language Models [paper](https://arxiv.org/abs/2310.12963)
@@ -54,6 +57,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Alignment
 * SteerLM: Attribute Conditioned SFT as an (User-Steerable) Alternative to RLHF [paper](https://arxiv.org/abs/2310.05344), [model](https://huggingface.co/nvidia/SteerLM-llama2-13B)
     *  aligning LLMs without using RLHF
+* Fine-tuning Language Models for Factuality [paper](https://arxiv.org/abs/2311.08401)
 
 ## Datasets
 * Proof-Pile-2 dataset: the dataset involves scientific paper, web data containing mathematics, and mathematical code. [link](https://huggingface.co/datasets/EleutherAI/proof-pile-2)
@@ -72,6 +76,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
     * LLM for software testing, debugging, repair
     * LLM for documentation generation
 * Software testing with large language model: Survey, landscape, and vision [paper](https://arxiv.org/abs/2307.07221)
+* A Survey on Language Models for Code [paper](https://arxiv.org/abs/2311.07989), [code](https://github.com/codefuse-ai/Awesome-Code-LLM)
 * Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across **Computer Vision** Tasks [paper](https://arxiv.org/pdf/2310.19909.pdf) (NeurIPS'23)
 * The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [paper](https://arxiv.org/abs/2311.07361)
 
