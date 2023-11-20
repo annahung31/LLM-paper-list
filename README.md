@@ -13,6 +13,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## bi-modal LLM
 * CogVLM: Visual Expert for Pretrained Language Models [paper](https://arxiv.org/abs/2311.03079), [code](https://github.com/THUDM/CogVLM)
 * Emu Edit: Precise Image Editing via Recognition and Generation Tasks (from Meta) (use text instructions to modify images) [paper](https://emu-edit.metademolab.com/assets/emu_edit.pdf), [blog](https://emu-edit.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_campaign=emu&utm_content=thread)
+* LLaVA: Large Language and Vision Assistant (from Microsoft) (NeurIPS'23) [Main Page](https://llava-vl.github.io/)
 
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
