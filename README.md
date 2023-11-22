@@ -26,6 +26,9 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Parameter-Efficient fine-tuning
 * LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685.pdf)
 
+## Mixture of Experts
+* A curated reading list of research in Adaptive Computation (AC) & Mixture of Experts (MoE) [repo](https://github.com/koayon/awesome-adaptive-computation)
+
 ## Efficient inference
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * blogs:
