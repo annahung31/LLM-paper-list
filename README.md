@@ -75,7 +75,10 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
     * AlgebraicStack includes many coding language data. There are 954.1 M tokens for C++ code.
 * RedPajama: An Open Source Recipe to Reproduce LLaMA training dataset [code](https://github.com/togethercomputer/RedPajama-Data)
 * Open Platypus [paper](https://arxiv.org/abs/2308.07317), [data](https://huggingface.co/datasets/garage-bAInd/Open-Platypus), data size: 24,926
+
+## Benchmarks
 * GPQA: A Graduate-Level Google-Proof Q&A Benchmark (very hard questions) (from Cohere, Anthropic, NYU) [paper](https://arxiv.org/pdf/2311.12022.pdf), [data and code](https://github.com/idavidrein/gpqa/), data size: 448
+* GAIA: a benchmark for General AI Assistants (from Meta, Yann LeCun) [paper](https://huggingface.co/papers/2311.12983), [page](https://huggingface.co/gaia-benchmark)
 
 ## Domain adaptation
 * LLMs for Chip Design [paper](https://arxiv.org/abs/2311.00176) (from NVIDIA)
