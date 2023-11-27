@@ -33,6 +33,9 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * blogs:
    * [LLM系列笔记：LLM Inference量化分析与加速](https://zhuanlan.zhihu.com/p/642272677)
+### Making decoding process faster:
+* Lookahead Decoding [blog](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
+* PaSS: Parallel Speculative Sampling (from Apple)(NeurIPS'23) [paper](https://arxiv.org/pdf/2311.13581.pdf)
 
 ## In-context learning
 * Pretraining Data Mixtures Enable Narrow Model Selection Capabilities in Transformer Models (from DeepMind) [paper](https://arxiv.org/abs/2311.00871)
