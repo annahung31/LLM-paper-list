@@ -10,10 +10,11 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Simplifying Transformer Blocks [paper](https://arxiv.org/abs/2311.01906)
 * Alternating Updates for Efficient Transformers (Google Research) (NeutIPS'23) [paper](https://arxiv.org/pdf/2301.13310.pdf)
 
-## bi-modal LLM
+## Multimodal LLM
 * CogVLM: Visual Expert for Pretrained Language Models [paper](https://arxiv.org/abs/2311.03079), [code](https://github.com/THUDM/CogVLM)
 * Emu Edit: Precise Image Editing via Recognition and Generation Tasks (from Meta) (use text instructions to modify images) [paper](https://emu-edit.metademolab.com/assets/emu_edit.pdf), [blog](https://emu-edit.metademolab.com/?utm_source=twitter&utm_medium=organic_social&utm_campaign=emu&utm_content=thread)
 * LLaVA: Large Language and Vision Assistant (from Microsoft) (NeurIPS'23) [Main Page](https://llava-vl.github.io/), [code](https://github.com/haotian-liu/LLaVA)
+* Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities (from Google DeepMind) (text, video, audio) [paper](https://arxiv.org/pdf/2311.05698.pdf)
 
 ## Effictive training
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
@@ -45,6 +46,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Efficient Streaming Language Models with Attention Sinks [paper](https://arxiv.org/abs/2309.17453), [open source implementation](https://github.com/tomaarsen/attention_sinks)
 * YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071), [YaRN on Mistral-7b-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 * RoPE scaling [post](https://www.reddit.com/r/LocalLLaMA/comments/14mrgpr/dynamically_scaled_rope_further_increases/), [Hugging Face implementation](https://huggingface.co/docs/transformers/main/en/model_doc/llama#transformers.LlamaConfig.rope_scaling)
+* Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey [paper](https://arxiv.org/abs/2311.12351), [repo](https://github.com/Strivin0311/long-llms-learning)
 
 ## Dynamic Adaptive Prompt Engineering
 
@@ -72,7 +74,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
     * #llemma
     * AlgebraicStack includes many coding language data. There are 954.1 M tokens for C++ code.
 * RedPajama: An Open Source Recipe to Reproduce LLaMA training dataset [code](https://github.com/togethercomputer/RedPajama-Data)
-
+* Open Platypus [paper](https://arxiv.org/abs/2308.07317), [data](https://huggingface.co/datasets/garage-bAInd/Open-Platypus), data size: 24,926
+* GPQA: A Graduate-Level Google-Proof Q&A Benchmark (very hard questions) (from Cohere, Anthropic, NYU) [paper](https://arxiv.org/pdf/2311.12022.pdf), [data and code](https://github.com/idavidrein/gpqa/), data size: 448
 
 ## Domain adaptation
 * LLMs for Chip Design [paper](https://arxiv.org/abs/2311.00176) (from NVIDIA)
