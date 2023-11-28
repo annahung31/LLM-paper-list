@@ -30,6 +30,10 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Mixture of Experts
 * A curated reading list of research in Adaptive Computation (AC) & Mixture of Experts (MoE) [repo](https://github.com/koayon/awesome-adaptive-computation)
 
+## After tuning
+* Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch [paper](https://huggingface.co/papers/2311.03099), [code](https://github.com/yule-BUAA/MergeLM)
+  - Merge SFT models into base LLM with special method can improve the performance.
+
 ## Efficient inference
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * blogs:
