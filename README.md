@@ -5,6 +5,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Models
 * Llemma: An Open Language Model For Mathematics [paper](https://arxiv.org/abs/2310.10631), [code](https://github.com/EleutherAI/math-lm)
     * #mathematics #codellama
+ 
+* Magicoder: Source Code Is All You Need (a fully open sourced coding model) [paper](https://arxiv.org/pdf/2312.02120.pdf), [code](https://github.com/ise-uiuc/magicoder)
 
 ## Transformer design
 * Simplifying Transformer Blocks [paper](https://arxiv.org/abs/2311.01906)
