@@ -91,4 +91,47 @@ Parallel Sampling of Diffusion Models [Parallel Sampling of Diffusion Models Pos
 Stable Diffusion is Unstable  [Stable Diffusion is Unstable Poster (neurips.cc)](https://neurips.cc/virtual/2023/poster/70194)
 data mixture 
 
-DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining Poster (neurips.cc)](https://neurips.cc/virtual/2023/poster/70588)
+DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining [DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining Poster (neurips.cc)](https://neurips.cc/virtual/2023/poster/70588i)
+
+
+# Unsorted
+- SimMTM: A Simple Pre-Training Framework for Masked Time-Series Modeling Poster
+- Learning List-Level Domain-Invariant Representations for Ranking Poster
+- Model Spider: Learning to Rank Pre-Trained Models Efficiently Poster
+- Scaling Open-Vocabulary Object Detection Poster
+- Unified Embedding: Battle-Tested Feature Representations for Web-Scale ML Systems Poster
+- One Fits All: Power General Time Series Analysis by Pretrained LM Poster
+- Text-to-Image Diffusion Models are Zero Shot Classifiers Poster
+- The Geometry of Neural Nets' Parameter Spaces Under Reparametrization Poster
+- The Pursuit of Human Labeling: A New Perspective on Unsupervised Learning Poster
+- Uncertainty Quantification over Graph with Conformalized Graph Neural Networks Poster
+- Trans-Dimensional Generative Modeling via Jump Diffusion Models Poster
+- Let the Flows Tell: Solving Graph Combinatorial Problems with GFlowNets Poster
+- Can Language Models Solve Graph Problems in Natural Language? Poster
+- Regularized Behavior Cloning for Blocking the Leakage of Past Action Information Poster
+- 4M: Massively Multimodal Masked Modeling Poster
+- 3D-LLM: Injecting the 3D World into Large Language Models Poster
+- Double Gumbel Q-Learning Poster
+- Separable Physics-Informed Neural Networks Poster
+- Multi Time Scale World Models Poster
+- Parsel🐍: Algorithmic Reasoning with Language Models by Composing Decompositions Poster
+- DreamSim: Learning New Dimensions of Human Visual Similarity using Synthetic Data Poster
+- Score-based Generative Models with Lévy Processes Poster
+- EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought Poster
+- Skill-it! A data-driven skills framework for understanding and training language models Poster
+- Outlier-Robust Gromov-Wasserstein for Graph Data Poster
+- Bootstrapping Vision-Language Learning with Decoupled Language Pre-training Poster
+- SE(3) Equivariant Augmented Coupling Flows Poster
+- Stable Nonconvex-Nonconcave Training via Linear Interpolation Poster
+- Supervised Pretraining Can Learn In-Context Reinforcement Learning Poster
+- Alternating Updates for Efficient Transformers Poster
+- PRODIGY: Enabling In-context Learning Over Graphs Poster
+- Faith and Fate: Limits of Transformers on Compositionality Poster
+- Train Once, Get a Family: State-Adaptive Balances for Offline-to-Online Reinforcement Learning Poster
+- On the Planning Abilities of Large Language Models - A Critical Investigation Poster
+- Demystifying Oversmoothing in Attention-Based Graph Neural Networks Poster
+- Stochastic Multi-armed Bandits: Optimal Trade-off among Optimality, Consistency, and Tail Risk Poster
+- ProPILE: Probing Privacy Leakage in Large Language Models Poster
+- Hierarchical Decomposition of Prompt-Based Continual Learning: Rethinking Obscured Sub-optimality Poster
+- Data Contribution Estimation for Machine Learning Tutorial
+
