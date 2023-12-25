@@ -47,6 +47,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
    * How to make LLMs go fast [blog](https://vgel.me/posts/faster-inference/)
 * PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU [paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf), [code](https://github.com/SJTU-IPADS/PowerInfer)
      * significantly reduces GPU memory demands and CPU-GPU data transfer
+* LLM in a flash: Efficient Large Language Model Inference with Limited Memory (From Apple) [paper](https://arxiv.org/abs/2312.11514)
 
 ### Making decoding process faster:
 * Lookahead Decoding [blog](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
@@ -99,6 +100,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 ## Domain adaptation
 * LLMs for Chip Design [paper](https://arxiv.org/abs/2311.00176) (from NVIDIA)
 
+## Adversarial Attacks
+* Adversarial Attacks on GPT-4 via Simple Random Search [paper](https://www.andriushchenko.me/gpt4adv.pdf)
 
 ## Review paper
 * Large Language Models for Software Engineering: Survey and Open Problems [paper](https://arxiv.org/abs/2310.03533)
