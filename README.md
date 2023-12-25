@@ -22,6 +22,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * FP8-LM: Training FP8 Large Language Models [paper](https://arxiv.org/pdf/2310.18313.pdf), [code](https://azure.github.io/MS-AMP/)
 * Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer [paper](https://arxiv.org/abs/2203.03466), [code](https://github.com/microsoft/mup) 
 * MoLORA (Mixture of LORA) (from cohere) [paper](https://arxiv.org/abs/2309.05444), [code](https://github.com/for-ai/parameter-efficient-moe)
+* Gated Linear Attention Transformers with Hardware-Efficient Training [paper](https://arxiv.org/pdf/2312.06635.pdf)
+  * Performance still worse than transformer-based model
 
 ## Hyperparameter tuning
 * Finetuning LLMs with LoRA and QLoRA: Insights from Hundreds of Experiments  (from lightning AI) [blog](https://lightning.ai/pages/community/lora-insights/)
