@@ -44,6 +44,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * blogs:
    * [LLM系列笔记：LLM Inference量化分析与加速](https://zhuanlan.zhihu.com/p/642272677)
+   * How to make LLMs go fast [blog](https://vgel.me/posts/faster-inference/)
 * PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU [paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf), [code](https://github.com/SJTU-IPADS/PowerInfer)
      * significantly reduces GPU memory demands and CPU-GPU data transfer
 
