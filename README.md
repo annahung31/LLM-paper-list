@@ -28,11 +28,14 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## Parameter-Efficient fine-tuning
 * LoRA: Low-Rank Adaptation of Large Language Models [paper](https://arxiv.org/pdf/2106.09685.pdf)
+* LoRAMoE: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment [paper](https://arxiv.org/abs/2312.09979v2)
+  * Dealing with world knowledge forgetting during SFT
 
 ## Mixture of Experts
 * A curated reading list of research in Adaptive Computation (AC) & Mixture of Experts (MoE) [repo](https://github.com/koayon/awesome-adaptive-computation)
 * MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (“Here's the paper you need to read understand today” - Sasha Rush) [paper](https://arxiv.org/pdf/2211.15841.pdf) 
-
+* Mistral MoE base model [blog](https://mistral.ai/news/mixtral-of-experts/)
+* Calculate an MoE model by hand [post](https://www.linkedin.com/posts/tom-yeh_deeplearning-generatieveai-llms-activity-7141461533112381441-J35v?utm_source=share&utm_medium=member_desktop)
 ## After tuning
 * Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch [paper](https://huggingface.co/papers/2311.03099), [code](https://github.com/yule-BUAA/MergeLM)
   - Merge SFT models into base LLM with special method can improve the performance.
@@ -41,6 +44,9 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * s-lora (batch lora weight inferencing) [code](https://github.com/S-LoRA/S-LoRA)
 * blogs:
    * [LLM系列笔记：LLM Inference量化分析与加速](https://zhuanlan.zhihu.com/p/642272677)
+* PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU [paper](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf), [code](https://github.com/SJTU-IPADS/PowerInfer)
+     * significantly reduces GPU memory demands and CPU-GPU data transfer
+
 ### Making decoding process faster:
 * Lookahead Decoding [blog](https://lmsys.org/blog/2023-11-21-lookahead-decoding/)
 * PaSS: Parallel Speculative Sampling (from Apple)(NeurIPS'23) [paper](https://arxiv.org/pdf/2311.13581.pdf)
@@ -67,6 +73,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
     *  the order of information presented in evidence documents will impact the order of information presented in the generated answer
 * Learning to Filter Context for Retrieval-Augmented Generation [paper](https://arxiv.org/abs/2311.07989), [code](https://github.com/zorazrw/filco)
 * Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models [paper](https://arxiv.org/abs/2311.09210)
+* Retrieval-Augmented Generation for Large Language Models: A Survey [paper](https://arxiv.org/pdf/2312.10997.pdf)
 
 ## Cost saving
 * AutoMix: Automatically Mixing Language Models [paper](https://arxiv.org/abs/2310.12963)
