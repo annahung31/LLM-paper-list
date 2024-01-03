@@ -120,8 +120,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * Battle of the Backbones: A Large-Scale Comparison of Pretrained Models across **Computer Vision** Tasks [paper](https://arxiv.org/pdf/2310.19909.pdf) (NeurIPS'23)
 * The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4 [paper](https://arxiv.org/abs/2311.07361)
 * Data Management For Large Language Models: A Survey (for pretraining and SFT) [paper](https://arxiv.org/pdf/2312.01700.pdf), [code](https://github.com/ZigeW/data_management_LLM)
-* If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents [paper](https://arxiv.org/abs/2401.00812)
-      * A comprehensive overview of the benefits of training LLMs with code-specific data.
+* If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents [paper](https://arxiv.org/abs/2401.00812)  
+   * A comprehensive overview of the benefits of training LLMs with code-specific data.
 
 
 ## Not paper, but good discussion
