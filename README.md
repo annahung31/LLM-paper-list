@@ -126,3 +126,4 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## Not paper, but good discussion
 * [Your settings are (probably) hurting your model - Why sampler settings matter](https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/)
+* LLM course (got 10k stars) [repo](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
