@@ -67,6 +67,8 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 ## Dynamic Adaptive Prompt Engineering
 * Chain of Code:Reasoning with a Language Model-Augmented Code Emulator (from DeepMind and Fei Fei Li) [project page](https://sites.google.com/view/chain-of-code), [paper](https://arxiv.org/abs/2312.04474?utm_source=alphasignalai.beehiiv.com&utm_medium=referral&utm_campaign=chain-of-code-is-here)
+* Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding (from Google Research) [paper](https://arxiv.org/pdf/2401.04398.pdf)
+
 
 ## Evaluation
 * PromptBench - a unified library that supports comprehensive evaluation and analysis of LLMs [code](https://github.com/microsoft/promptbench)
