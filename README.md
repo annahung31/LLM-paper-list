@@ -125,10 +125,12 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents [paper](https://arxiv.org/abs/2401.00812)  
    * A comprehensive overview of the benefits of training LLMs with code-specific data.
 
-## Good 101 materials
-* RLHF (from Latent Space podcast) [RLHF 201 - with Nathan Lambert of AI2 and Interconnects](https://www.latent.space/p/rlhf-201?utm_source=podcast-email%2Csubstack&publication_id=1084089&post_id=140498023&utm_campaign=email-play-on-substack&utm_medium=email&r=2m1hm2)
-
-
 ## Not paper, but good discussion
 * [Your settings are (probably) hurting your model - Why sampler settings matter](https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/)
+
+
+## Good 101 materials
+* RLHF (from Latent Space podcast) [RLHF 201 - with Nathan Lambert of AI2 and Interconnects](https://www.latent.space/p/rlhf-201?utm_source=podcast-email%2Csubstack&publication_id=1084089&post_id=140498023&utm_campaign=email-play-on-substack&utm_medium=email&r=2m1hm2)
 * LLM course (got 10k stars) [repo](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+
+
