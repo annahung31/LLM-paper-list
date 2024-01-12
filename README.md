@@ -130,7 +130,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 
 
 ## Good 101 materials
-* RLHF (from Latent Space podcast) [RLHF 201 - with Nathan Lambert of AI2 and Interconnects](https://www.latent.space/p/rlhf-201?utm_source=podcast-email%2Csubstack&publication_id=1084089&post_id=140498023&utm_campaign=email-play-on-substack&utm_medium=email&r=2m1hm2)
+* DPO v.s RLHF (from Latent Space podcast) [RLHF 201 - with Nathan Lambert of AI2 and Interconnects](https://www.latent.space/p/rlhf-201?utm_source=podcast-email%2Csubstack&publication_id=1084089&post_id=140498023&utm_campaign=email-play-on-substack&utm_medium=email&r=2m1hm2)
 * LLM course (got 10k stars) [repo](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 
 
