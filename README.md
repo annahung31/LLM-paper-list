@@ -64,6 +64,7 @@ This list was created on Oct. 23, 2023, so some important papers before this dat
 * YaRN: Efficient Context Window Extension of Large Language Models [paper](https://arxiv.org/abs/2309.00071), [YaRN on Mistral-7b-128k](https://huggingface.co/NousResearch/Yarn-Mistral-7b-128k)
 * RoPE scaling [post](https://www.reddit.com/r/LocalLLaMA/comments/14mrgpr/dynamically_scaled_rope_further_increases/), [Hugging Face implementation](https://huggingface.co/docs/transformers/main/en/model_doc/llama#transformers.LlamaConfig.rope_scaling)
 * Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey [paper](https://arxiv.org/abs/2311.12351), [repo](https://github.com/Strivin0311/long-llms-learning)
+* The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey [paper](https://arxiv.org/abs/2401.07872)
 
 ## Dynamic Adaptive Prompt Engineering
 * Chain of Code:Reasoning with a Language Model-Augmented Code Emulator (from DeepMind and Fei Fei Li) [project page](https://sites.google.com/view/chain-of-code), [paper](https://arxiv.org/abs/2312.04474?utm_source=alphasignalai.beehiiv.com&utm_medium=referral&utm_campaign=chain-of-code-is-here)
